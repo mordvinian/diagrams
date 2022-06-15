@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T08:05:38.386Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.162 Safari/537.36" version="19.0.3" etag="ChrFsGXCgx8W3T6XY9-c" type="github"><diagram id="gVxRz3MgTKwVcn3YdrM9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-15T07:23:19.953Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.125 Safari/537.36" etag="PH701xioEITo0O37DAza" version="19.0.3" type="github">
+  <diagram id="gVxRz3MgTKwVcn3YdrM9" name="Page-1">
+    <mxGraphModel dx="2027" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=67;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhWaM5n5FpjVTGfqwRPA-1" target="YhWaM5n5FpjVTGfqwRPA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-1" value="Diagnostic Elements&lt;br&gt;&lt;br&gt;SlideImage&lt;br&gt;Navigator&lt;br&gt;&lt;br&gt;Progress" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-5" value="«type»&lt;br&gt;&lt;b&gt;DiagnosticSlideSlotName&lt;br&gt;&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhWaM5n5FpjVTGfqwRPA-6" target="YhWaM5n5FpjVTGfqwRPA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-6" value="«type»&lt;br&gt;&lt;b&gt;DiagnosticElementName&lt;br&gt;&lt;br&gt;SlideImage&lt;br&gt;Navigator&lt;br&gt;&lt;br&gt;Progress&lt;br&gt;&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhWaM5n5FpjVTGfqwRPA-8" target="YhWaM5n5FpjVTGfqwRPA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-8" value="«type»&lt;br&gt;&lt;b&gt;DiagnosticActionName&lt;br&gt;&lt;br&gt;ACTION&lt;br&gt;&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=67;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhWaM5n5FpjVTGfqwRPA-12" target="YhWaM5n5FpjVTGfqwRPA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YhWaM5n5FpjVTGfqwRPA-12" value="Diagnostic Actions&lt;br&gt;&lt;br&gt;SingleAnswerQuestion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="155" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
